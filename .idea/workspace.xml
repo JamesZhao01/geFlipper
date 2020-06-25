@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="geFlipper:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4cbeb4a8-b323-4c2c-abc3-db50272f7197" name="Default Changelist" comment="">
+<<<<<<< HEAD
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Flipper_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/geFlipper_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/OSBot_2_5_83.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bot/java/controller/GrandExchangeWidgets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bot/java/logger/ScriptLoggerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bot/java/logger/ScriptLoggers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/server/data/AccountIdentifierSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/server/data/AccountInformationSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/server/data/AccountObjMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/server/data/StatusUpdateSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testing/TestGrandExchangeWidgets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/RealGeFlipper_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+>>>>>>> 543eb8045df3c196ee55ef5ed8641fc2f61d20d9
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/server/webapi/Config.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/server/webapi/Config.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/server/webapi/TokenResponse.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/server/webapi/TokenResponse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/server/webapi/class-use/Config.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/server/webapi/class-use/Config.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/server/webapi/class-use/TokenResponse.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/server/webapi/class-use/TokenResponse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/res/java/config/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bot/java/common/AutomaticUpdater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bot/java/controller/connections/AutomaticUpdater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bot/java/common/CliCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bot/java/common/CliCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bot/java/common/CommandMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bot/java/controller/command/CommandMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bot/java/common/Globals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bot/java/common/Globals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bot/java/common/OperationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bot/java/controller/operations/OperationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bot/java/common/OperationRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bot/java/controller/operations/OperationRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bot/java/controller/CliCommandHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bot/java/controller/command/CliCommandHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bot/java/controller/ConnectionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bot/java/controller/connections/ConnectionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bot/java/controller/GrandExchangeAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bot/java/controller/GrandExchangeAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bot/java/controller/GrandExchangeInteractionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bot/java/controller/GrandExchangeInteractionUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bot/java/controller/MinaBotClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bot/java/controller/connections/MinaBotClientHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bot/java/controller/NotEnoughMoneyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bot/java/controller/command/NotEnoughMoneyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bot/java/driver/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bot/java/driver/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bot/java/gui/Cli.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bot/java/gui/Cli.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/server/MainServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/server/MainServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/server/command/CommandMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/server/command/CommandMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/server/command/CommandRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/server/command/CommandRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/server/data/AccountInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/server/data/AccountInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/server/webapi/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/server/webapi/HttpApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/server/webapi/HttpApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/server/webapi/TokenResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/server/webapi/JwtResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/proto/components.proto" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/proto/components.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testing/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testing/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testing/TesterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testing/TesterClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/api/Stupid$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/api/Stupid$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/api/Stupid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/botDash.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/box.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Account$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Account$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/AccountOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ApiCommand$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ApiCommand$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ApiCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ApiCommandOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ApiCommandResponse$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ApiCommandResponse$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ApiCommandResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ApiCommandResponseOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ApiData$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ApiData$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ApiData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ApiDataOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ApiRequest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ApiRequest$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ApiRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ApiRequestOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ApiStatus$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ApiStatus$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ApiStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ApiStatusOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/BotResponse$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/BotResponse$BotResponseStatus$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/BotResponse$BotResponseStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/BotResponse$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/BotResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/BotResponseOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Box$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Box$BoxStatus$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Box$BoxStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Box$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/BoxOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/BuyIncrement$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/BuyIncrement$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/BuyIncrement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/BuyIncrementOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/BuyPrice$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/BuyPrice$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/BuyPrice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/BuyPriceOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Cancel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Cancel$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Cancel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/CancelOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Collect$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Collect$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Collect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/CollectAll$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/CollectAll$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/CollectAll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/CollectAllOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/CollectOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/CommandControlGrpc$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/CommandControlGrpc$CommandControlBaseDescriptorSupplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/CommandControlGrpc$CommandControlBlockingStub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/CommandControlGrpc$CommandControlFileDescriptorSupplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/CommandControlGrpc$CommandControlFutureStub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/CommandControlGrpc$CommandControlImplBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/CommandControlGrpc$CommandControlMethodDescriptorSupplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/CommandControlGrpc$CommandControlStub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/CommandControlGrpc$MethodHandlers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/CommandControlGrpc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/CommandStatus$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/CommandStatus$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/CommandStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/CommandStatusOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Components$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Components.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Connect$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Connect$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Connect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ConnectOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ForceStatusUpdate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ForceStatusUpdate$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ForceStatusUpdate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ForceStatusUpdateOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Inventory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Inventory$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Inventory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/InventoryItem$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/InventoryItem$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/InventoryItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/InventoryItemOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/InventoryOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Item$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Item$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/ItemOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/SellInc$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/SellInc$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/SellInc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/SellIncOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/SellPrice$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/SellPrice$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/SellPrice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/SellPriceOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Status$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Status$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/StatusOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/StatusUpdate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/StatusUpdate$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/StatusUpdate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/StatusUpdateOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Update$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Update$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/Update.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/components/UpdateOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/common/AutomaticUpdater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/common/CliCommand$CliCommandType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/common/CliCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/common/CommandMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/common/Globals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/common/OperationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/common/OperationRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/components.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/CliCommandHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/CliCommandHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/ConnectionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/GrandExchangeAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/GrandExchangeInteractionUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/GrandExchangeInteractionUtils$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/GrandExchangeInteractionUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/MinaBotClientHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/MinaBotClientHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/NotEnoughMoneyException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/WorldInteractionUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/driver/Driver$LoginHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/driver/Driver$LoginHandler$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/driver/Driver$LoginHandler$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/driver/Driver$LoginHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/driver/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/driver/Testing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gui/Cli$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gui/Cli.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gui/mouse/MouseCursor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gui/mouse/MousePathPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gui/mouse/MouseTrail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logger/ScriptLogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mainDash.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/parser/CommandParser$ParserException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/parser/CommandParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/protocol/Data$MessageType$IdNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/protocol/Data$MessageType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/protocol/Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/protocol/DataCodecFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/protocol/DataDecoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/protocol/DataEncoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/ClientInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/CommandChannel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/DataApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/DataApiImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/MainServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/command/Command$DataTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/command/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/command/CommandFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/command/CommandMap$CommandNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/command/CommandMap$DataUnit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/command/CommandMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/command/CommandParser$ParsingException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/command/CommandParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/command/CommandRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/data/AccountIdentifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/data/AccountInformation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/data/DataHandler$IdNotFoundInMapException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/data/DataHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/mina/CommandApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/mina/MinaBotHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/mina/MinaBotHandler$SessionNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/mina/MinaBotHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/mina/MinaBotServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/tasks/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/tasks/ProcessIdFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/tasks/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/tasks/TaskInformation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/tasks/TaskScheduler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/tasks/flip/FlipBuyOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/tasks/flip/FlipBuyTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/tasks/flip/FlipInformation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/webapi/CheckJwtResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/webapi/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/webapi/ErrorResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/webapi/HttpApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/server/webapi/TokenResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testClient/TestClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testClient/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/grpc-java/com/example/components/CommandControlGrpc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/AccountOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/ApiCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/ApiCommandOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/ApiCommandResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/ApiCommandResponseOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/ApiData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/ApiDataOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/ApiRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/ApiRequestOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/ApiStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/ApiStatusOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/BotResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/BotResponseOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/BoxOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/BuyIncrement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/BuyIncrementOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/BuyPrice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/BuyPriceOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/Cancel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/CancelOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/Collect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/CollectAll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/CollectAllOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/CollectOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/CommandStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/CommandStatusOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/Components.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/Connect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/ConnectOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/ForceStatusUpdate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/ForceStatusUpdateOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/InventoryItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/InventoryItemOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/InventoryOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/ItemOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/SellInc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/SellIncOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/SellPrice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/SellPriceOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/Status.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/StatusOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/StatusUpdate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/StatusUpdateOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/Update.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/example/components/UpdateOrBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/annotations.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/auth.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/backend.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/billing.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/config_change.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/consumer.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/context.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/control.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/distribution.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/documentation.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/endpoint.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/experimental/authorization_config.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/experimental/experimental.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/http.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/httpbody.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/label.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/log.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/logging.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/metric.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/monitored_resource.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/monitoring.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/quota.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/service.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/source_info.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/system_parameter.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/api/usage.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/cloud/audit/audit_log.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/logging/type/http_request.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/logging/type/log_severity.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/longrunning/operations.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/rpc/code.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/rpc/error_details.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/rpc/status.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/type/color.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/type/date.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/type/dayofweek.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/type/latlng.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/type/money.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/type/postal_address.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/140aca238f7826d4394fc0587b8cd319/google/type/timeofday.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/f0bb23a5053a13b7b39e5c25d6b93849/google/protobuf/any.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/f0bb23a5053a13b7b39e5c25d6b93849/google/protobuf/api.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/f0bb23a5053a13b7b39e5c25d6b93849/google/protobuf/compiler/plugin.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/f0bb23a5053a13b7b39e5c25d6b93849/google/protobuf/descriptor.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/f0bb23a5053a13b7b39e5c25d6b93849/google/protobuf/duration.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/f0bb23a5053a13b7b39e5c25d6b93849/google/protobuf/empty.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/f0bb23a5053a13b7b39e5c25d6b93849/google/protobuf/field_mask.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/f0bb23a5053a13b7b39e5c25d6b93849/google/protobuf/source_context.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/f0bb23a5053a13b7b39e5c25d6b93849/google/protobuf/struct.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/f0bb23a5053a13b7b39e5c25d6b93849/google/protobuf/timestamp.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/f0bb23a5053a13b7b39e5c25d6b93849/google/protobuf/type.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/f0bb23a5053a13b7b39e5c25d6b93849/google/protobuf/wrappers.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-plugins/protoc-3.5.1-1-windows-x86_64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-plugins/protoc-gen-grpc-java-1.16.1-windows-x86_64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testing/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testing/TesterClass.class" beforeDir="false" />
+>>>>>>> 543eb8045df3c196ee55ef5ed8641fc2f61d20d9
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dIWnflGXUoNggUzYJlwoHHK3Mq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585552079941" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OSBot/Scripts" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.28735632" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="server.mina" />
+      <recent name="server.tcp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jameszhao\IdeaProjects\RealGeFlipper\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Remote.Remote5005">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.MainServer" />
+      <module name="geFlipper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGrandExchangeWidgets" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="geFlipper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testing" />
+      <option name="MAIN_CLASS_NAME" value="testing.TestGrandExchangeWidgets" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesterClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="geFlipper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testing" />
+      <option name="MAIN_CLASS_NAME" value="testing.TesterClass" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesterClass.testCustomSerializer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="geFlipper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testing" />
+      <option name="MAIN_CLASS_NAME" value="testing.TesterClass" />
+      <option name="METHOD_NAME" value="testCustomSerializer" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesterClass.testObjectMapping" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="geFlipper" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testing" />
+      <option name="MAIN_CLASS_NAME" value="testing.TesterClass" />
+      <option name="METHOD_NAME" value="testObjectMapping" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Remote5005" type="Remote">
+      <module name="geFlipper" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainServer" />
+      <item itemvalue="JUnit.TesterClass.testCustomSerializer" />
+      <item itemvalue="JUnit.TesterClass.testObjectMapping" />
+      <item itemvalue="JUnit.TesterClass" />
+      <item itemvalue="JUnit.TestGrandExchangeWidgets" />
+      <item itemvalue="Remote.Remote5005" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestGrandExchangeWidgets" />
+        <item itemvalue="Application.MainServer" />
+        <item itemvalue="JUnit.TesterClass.testObjectMapping" />
+        <item itemvalue="JUnit.TesterClass" />
+        <item itemvalue="JUnit.TesterClass.testCustomSerializer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructuralSearchPlugin">
+    <searchConfiguration name="user defined" created="1564738280995" text="ScriptManifest" recursive="true" caseInsensitive="true" type="JAVA" history="1" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cbeb4a8-b323-4c2c-abc3-db50272f7197" name="Default Changelist" comment="" />
+      <created>1564737501838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564737501838</updated>
+    </task>
+    <task id="LOCAL-00001" summary="pretest">
+      <created>1566710309828</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566710309828</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pretest">
+      <created>1585469423521</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585469423521</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pretest" />
+    <option name="LAST_COMMIT_MESSAGE" value="pretest" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="830" y="115" width="736" height="785" key="#MainServer" timestamp="1592028736514">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="830" y="115" width="736" height="785" key="#MainServer/72.27.1848.948/1920.0.1920.975@72.27.1848.948" timestamp="1592028736514" />
+    <state x="744" y="103" width="898" height="802" key="#TesterClass.testObjectMapping" timestamp="1592263801803">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="744" y="103" key="#TesterClass.testObjectMapping/72.27.1848.948/1920.0.1920.1200@72.27.1848.948" timestamp="1592263801803" />
+    <state x="744" y="103" width="898" height="802" key="#TesterClass.testObjectMapping/72.27.1848.948/1920.0.1920.975@72.27.1848.948" timestamp="1592028666933" />
+    <state x="622" y="90" width="898" height="802" key="#TesterClass.testSerialize" timestamp="1592263787529">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="622" y="90" width="898" height="802" key="#TesterClass.testSerialize/72.27.1848.948/1920.0.1920.1200@72.27.1848.948" timestamp="1592263787529" />
+    <state x="586" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592982383075">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="586" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.948/1920.0.1920.975@72.27.1848.948" timestamp="1592982383075" />
+    <state x="804" y="208" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1592872866920">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="804" y="208" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/72.27.1848.948/1920.0.1920.1200@72.27.1848.948" timestamp="1592872866920" />
+    <state x="804" y="208" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/72.27.1848.948/1920.0.1920.975@72.27.1848.948" timestamp="1592639120118" />
+    <state x="1920" y="208" key="#com.intellij.ide.util.MemberChooser/72.27.3768.948@72.27.3768.948" timestamp="1592701873143" />
+    <state x="926" y="299" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592897335283">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="926" y="299" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog/72.27.1848.948/1920.0.1920.975@72.27.1848.948" timestamp="1592897335283" />
+    <state x="1026" y="259" width="324" height="497" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1592895968611">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="1026" y="259" width="324" height="497" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/72.27.1848.948/1920.0.1920.975@72.27.1848.948" timestamp="1592895968611" />
+    <state x="637" y="412" width="878" height="158" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1592609018602">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="637" y="412" width="878" height="158" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/72.27.1848.948/1920.0.1920.1200@72.27.1848.948" timestamp="1592609018602" />
+    <state x="729" y="250" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592872022629">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="729" y="250" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.1848.948/1920.0.1920.1200@72.27.1848.948" timestamp="1592872022629" />
+    <state x="926" y="262" width="524" height="491" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1592895900270">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="926" y="262" width="524" height="491" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/72.27.1848.948/1920.0.1920.975@72.27.1848.948" timestamp="1592895900270" />
+    <state x="806" y="188" width="530" height="621" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1592608955124">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="806" y="188" width="530" height="621" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/72.27.1848.948/1920.0.1920.1200@72.27.1848.948" timestamp="1592608955124" />
+    <state x="981" y="259" width="745" height="491" key="FileChooserDialogImpl" timestamp="1592897363320">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="981" y="259" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.948/1920.0.1920.1200@72.27.1848.948" timestamp="1592607694794" />
+    <state x="981" y="259" width="745" height="491" key="FileChooserDialogImpl/72.27.1848.948/1920.0.1920.975@72.27.1848.948" timestamp="1592897363320" />
+    <state width="1538" height="287" key="GridCell.Tab.0.bottom" timestamp="1592987449973">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state width="1802" height="232" key="GridCell.Tab.0.bottom/72.27.1848.948/1920.0.1920.1200@72.27.1848.948" timestamp="1592873418287" />
+    <state width="1538" height="287" key="GridCell.Tab.0.bottom/72.27.1848.948/1920.0.1920.975@72.27.1848.948" timestamp="1592987449973" />
+    <state width="1538" height="287" key="GridCell.Tab.0.bottom/72.27.3768.948@72.27.3768.948" timestamp="1592955185183" />
+    <state width="1538" height="287" key="GridCell.Tab.0.center" timestamp="1592987449973">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state width="1802" height="232" key="GridCell.Tab.0.center/72.27.1848.948/1920.0.1920.1200@72.27.1848.948" timestamp="1592873418287" />
+    <state width="1538" height="287" key="GridCell.Tab.0.center/72.27.1848.948/1920.0.1920.975@72.27.1848.948" timestamp="1592987449973" />
+    <state width="1538" height="287" key="GridCell.Tab.0.center/72.27.3768.948@72.27.3768.948" timestamp="1592955185182" />
+    <state width="1538" height="287" key="GridCell.Tab.0.left" timestamp="1592987449973">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state width="1802" height="232" key="GridCell.Tab.0.left/72.27.1848.948/1920.0.1920.1200@72.27.1848.948" timestamp="1592873418287" />
+    <state width="1538" height="287" key="GridCell.Tab.0.left/72.27.1848.948/1920.0.1920.975@72.27.1848.948" timestamp="1592987449973" />
+    <state width="1538" height="287" key="GridCell.Tab.0.left/72.27.3768.948@72.27.3768.948" timestamp="1592955185182" />
+    <state width="1538" height="287" key="GridCell.Tab.0.right" timestamp="1592987449973">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state width="1802" height="232" key="GridCell.Tab.0.right/72.27.1848.948/1920.0.1920.1200@72.27.1848.948" timestamp="1592873418287" />
+    <state width="1538" height="287" key="GridCell.Tab.0.right/72.27.1848.948/1920.0.1920.975@72.27.1848.948" timestamp="1592987449973" />
+    <state width="1538" height="287" key="GridCell.Tab.0.right/72.27.3768.948@72.27.3768.948" timestamp="1592955185183" />
+    <state width="1538" height="287" key="GridCell.Tab.1.bottom" timestamp="1592987449974">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state width="1538" height="287" key="GridCell.Tab.1.bottom/72.27.1848.948/1920.0.1920.975@72.27.1848.948" timestamp="1592987449974" />
+    <state width="1538" height="287" key="GridCell.Tab.1.bottom/72.27.3768.948@72.27.3768.948" timestamp="1592955188116" />
+    <state width="1538" height="287" key="GridCell.Tab.1.center" timestamp="1592987449973">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state width="1538" height="287" key="GridCell.Tab.1.center/72.27.1848.948/1920.0.1920.975@72.27.1848.948" timestamp="1592987449973" />
+    <state width="1538" height="287" key="GridCell.Tab.1.center/72.27.3768.948@72.27.3768.948" timestamp="1592955188116" />
+    <state width="1538" height="287" key="GridCell.Tab.1.left" timestamp="1592987449973">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state width="1538" height="287" key="GridCell.Tab.1.left/72.27.1848.948/1920.0.1920.975@72.27.1848.948" timestamp="1592987449973" />
+    <state width="1538" height="287" key="GridCell.Tab.1.left/72.27.3768.948@72.27.3768.948" timestamp="1592955188116" />
+    <state width="1538" height="287" key="GridCell.Tab.1.right" timestamp="1592987449974">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state width="1538" height="287" key="GridCell.Tab.1.right/72.27.1848.948/1920.0.1920.975@72.27.1848.948" timestamp="1592987449974" />
+    <state width="1538" height="287" key="GridCell.Tab.1.right/72.27.3768.948@72.27.3768.948" timestamp="1592955188116" />
+    <state x="731" y="159" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1592028352090">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="731" y="159" width="924" height="691" key="Maven.ArtifactSearchDialog/72.27.1848.948/1920.0.1920.975@72.27.1848.948" timestamp="1592028352090" />
+    <state x="681" y="78" width="1024" height="852" key="SettingsEditor" timestamp="1592898441135">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="681" y="78" width="1024" height="852" key="SettingsEditor/72.27.1848.948/1920.0.1920.1200@72.27.1848.948" timestamp="1592616220726" />
+    <state x="681" y="78" width="1024" height="852" key="SettingsEditor/72.27.1848.948/1920.0.1920.975@72.27.1848.948" timestamp="1592898441135" />
+    <state width="690" height="461" key="XDebugger.FullValuePopup" timestamp="1592528418006">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state width="690" height="461" key="XDebugger.FullValuePopup/72.27.1848.948/1920.0.1920.975@72.27.1848.948" timestamp="1592528418006" />
+    <state x="847" y="403" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592608908059">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="847" y="403" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1848.948/1920.0.1920.1200@72.27.1848.948" timestamp="1592608908059" />
+    <state x="746" y="213" width="894" height="654" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1592900486568">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="746" y="213" width="894" height="654" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/72.27.1848.948/1920.0.1920.975@72.27.1848.948" timestamp="1592900486568" />
+    <state x="740" y="219" key="run.anything.popup" timestamp="1592615719627">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="740" y="219" key="run.anything.popup/72.27.1848.948/1920.0.1920.1200@72.27.1848.948" timestamp="1592615719627" />
+    <state x="739" y="226" width="672" height="678" key="search.everywhere.popup" timestamp="1592896055828">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="739" y="226" width="672" height="678" key="search.everywhere.popup/72.27.1848.948/1920.0.1920.1200@72.27.1848.948" timestamp="1592608844557" />
+    <state x="739" y="226" width="672" height="678" key="search.everywhere.popup/72.27.1848.948/1920.0.1920.975@72.27.1848.948" timestamp="1592896055828" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/server/data/DataHandler.java</url>
+          <line>53</line>
+          <properties class="server.data.DataHandler" method="write">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

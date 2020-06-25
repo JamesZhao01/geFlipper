@@ -1,0 +1,155 @@
+syntax = "proto3";
+
+import "google/protobuf/any.proto";
+
+option java_multiple_files = true;
+option java_package = "com.example.components";
+
+
+service CommandControl {
+    rpc apiGet(ApiRequest) returns (ApiStatus);
+    rpc command(ApiCommand) returns (ApiCommandResponse);
+}
+
+message ApiCommand{
+    string command = 1;
+}
+
+message ApiCommandResponse {
+    string message = 1;
+}
+
+message Connect{
+    string botName = 1;
+    StatusUpdate statusUpdate = 2;
+}
+
+message Collect{
+    int32 dummy = 1;
+}
+message BotResponse{
+    enum BotResponseStatus {
+        ALREADY_CONNECTED = 0;
+        OK = 1;
+        FULL = 2;
+    }
+    int32 id = 1;
+    BotResponseStatus status = 2;
+}
+
+message Update {
+    int32 id = 1;
+    string botName = 2;
+    StatusUpdate statusUpdate = 3;
+}
+
+message Account{
+    int32 id = 1;
+    string name = 2;
+}
+
+message ApiRequest{
+}
+
+message ApiStatus{
+    repeated ApiData data = 1;
+}
+
+message ApiData {
+    Account account = 1;
+    StatusUpdate statusUpdate = 2;
+}
+
+message Status {
+}
+
+message StatusUpdate {
+    repeated Box box = 1;
+    Inventory inv = 2;
+    Account account = 3;
+    int32 processId = 4;
+    bool processing = 5;
+}
+
+message BuyPrice {
+    int32 id = 1;
+    string searchTerm = 2;
+    int32 buy_price = 3;
+    int32 quantity = 4;
+}
+message BuyIncrement {
+    int32 id = 1;
+    string searchTerm = 2;
+    int32 increment = 3;
+    int32 quantity = 4;
+    int32 processId = 5;
+}
+
+message Cancel{
+    int32 boxNum = 1;
+}
+
+message SellPrice {
+    int32 id = 1;
+    int32 sell_price = 2;
+    int32 quantity = 3;
+}
+
+message SellInc{
+    int32 id = 1;
+    int32 increment = 2;
+    int32 quantity = 3;
+}
+
+message CollectAll{
+}
+
+message ForceStatusUpdate {
+    int32 dummy = 1;
+}
+
+
+message CommandStatus {
+    bool ok = 1;
+    google.protobuf.Any command = 2;
+    string message = 3;
+}
+
+message Box {
+    enum BoxStatus {
+        EMPTY = 0;
+        PENDING_SALE = 1;
+        PENDING_BUY = 2;
+        FINISHED_SALE = 3;
+        FINISHED_BUY = 4;
+        INITIALIZING_SALE = 5;
+        INITIALIZING_BUY = 6;
+        CANCELLING_SALE = 7;
+        CANCELLING_BUY = 8;
+        COMPLETING_SALE = 9;
+        COMPLETING_BUY = 10;
+        EMPTY_BOX=11;
+    }
+    /**/
+    BoxStatus status = 1;
+    Item item = 2;
+    int32 item_price = 3;
+    int32 amount_remaining = 4;
+    int32 amount_total = 5;
+    int32 amount_spent = 6;
+    int32 amount_traded = 7;
+    int32 box_num = 8;
+}
+
+message Inventory {
+    repeated InventoryItem items = 1;
+}
+
+message InventoryItem{
+    Item item = 1;
+    int32 count = 2;
+}
+message Item {
+    int32 id = 1;
+    string name = 2;
+}

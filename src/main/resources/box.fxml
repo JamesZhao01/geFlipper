@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<GridPane prefHeight="79.0" prefWidth="350.0" style="-fx-border-color: black;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="server.gui.box.BoxController">
+  <columnConstraints>
+    <ColumnConstraints hgrow="SOMETIMES" maxWidth="278.0" minWidth="10.0" prefWidth="70.0" />
+    <ColumnConstraints hgrow="SOMETIMES" maxWidth="472.0" minWidth="10.0" prefWidth="257.0" />
+  </columnConstraints>
+  <rowConstraints>
+    <RowConstraints maxHeight="114.0" minHeight="10.0" prefHeight="53.0" vgrow="SOMETIMES" />
+    <RowConstraints maxHeight="129.0" minHeight="10.0" prefHeight="58.0" vgrow="SOMETIMES" />
+  </rowConstraints>
+   <children>
+      <HBox alignment="CENTER_LEFT" GridPane.columnIndex="1">
+         <children>
+            <Label text="Name: " />
+            <Text fx:id="name" strokeType="OUTSIDE" strokeWidth="0.0" />
+            <Region prefHeight="30.0" prefWidth="19.0" HBox.hgrow="NEVER" />
+            <Label text="ID: " />
+            <Label fx:id="id" text="-1" />
+            <Region prefHeight="30.0" prefWidth="19.0" />
+            <Label text="Price: " />
+            <Label fx:id="price" text="-1" />
+         </children>
+      </HBox>
+      <HBox alignment="CENTER_LEFT" spacing="10.0" GridPane.columnIndex="1" GridPane.rowIndex="1">
+         <children>
+            <Label prefHeight="17.0" prefWidth="66.0" text="Progress: " />
+            <ProgressBar fx:id="progressBar" prefHeight="18.0" prefWidth="149.0" progress="0.0" />
+            <Text fx:id="progressLabel" strokeType="OUTSIDE" strokeWidth="0.0" text="0/0" />
+         </children>
+      </HBox>
+      <Text fx:id="buyOrSell" strokeType="OUTSIDE" strokeWidth="0.0" text="Null" GridPane.rowIndex="1" />
+      <HBox alignment="CENTER_LEFT" prefHeight="100.0" prefWidth="200.0">
+         <children>
+            <Label text="S: " />
+            <Text fx:id="status" strokeType="OUTSIDE" strokeWidth="0.0" text="Null" />
+         </children>
+      </HBox>
+   </children>
+</GridPane>

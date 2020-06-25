@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Class-Path: osbot 2.5.53.jar netty-codec-http2-4.1.35.Final.jar grpc-c
+ ore-1.22.1.jar grpc-stub-1.22.1.jar j2objc-annotations-1.1.jar netty-
+ buffer-4.1.35.Final.jar netty-common-4.1.35.Final.jar netty-codec-4.1
+ .35.Final.jar opencensus-api-0.21.0.jar grpc-netty-shaded-1.22.1.jar 
+ grpc-context-1.22.1.jar animal-sniffer-annotations-1.17.jar grpc-nett
+ y-1.22.1.jar checker-compat-qual-2.5.2.jar error_prone_annotations-2.
+ 3.2.jar netty-handler-proxy-4.1.35.Final.jar netty-codec-http-4.1.35.
+ Final.jar protobuf-java-3.7.1.jar annotations-4.1.1.4.jar perfmark-ap
+ i-0.16.0.jar opencensus-contrib-grpc-metrics-0.21.0.jar netty-codec-s
+ ocks-4.1.35.Final.jar grpc-protobuf-1.22.1.jar netty-handler-4.1.35.F
+ inal.jar grpc-protobuf-lite-1.22.1.jar proto-google-common-protos-1.1
+ 2.0.jar jsr305-3.0.2.jar guava-26.0-android.jar grpc-api-1.22.1.jar n
+ etty-resolver-4.1.35.Final.jar gson-2.7.jar netty-transport-4.1.35.Fi
+ nal.jar
+

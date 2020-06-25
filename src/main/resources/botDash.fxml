@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox style="-fx-border-color: black;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="server.gui.dash.BotController">
+   <children>
+      <HBox alignment="CENTER_LEFT" prefHeight="28.0" prefWidth="302.0">
+         <children>
+            <Label text="botId: " />
+            <Text fx:id="botId" strokeType="OUTSIDE" strokeWidth="0.0" text="-1" />
+            <Region prefHeight="40.0" prefWidth="58.0" />
+            <Label text="Name:" />
+            <Text fx:id="botName" strokeType="OUTSIDE" strokeWidth="0.0" text="" wrappingWidth="146.13671875" />
+         </children>
+      </HBox>
+      <GridPane fx:id="boxes" prefHeight="382.0" prefWidth="302.0" style="-fx-border-color: black;">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+      </GridPane>
+   </children>
+</VBox>
